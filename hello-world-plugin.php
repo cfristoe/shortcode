@@ -12,8 +12,8 @@
     $Content .= "}\r\n";
     $Content .= "</style>\r\n";
     $Content .= '<h3 class="testText">HELLO WOOORLD!</h3>'; 
-    $Content .= '<img src=\"https://www.dlf.pt/png/big/5/56420_jordan-cry-face-png.jpg"
-         alt="jord" width="96" height="96" class="left-align" />';
+    $Content .= '<img src="http://assets.stickpng.com/images/58967e8c0803320bf17c2fb7.png" 
+    alt="Michael Jordan Crying Face" itemprop="contentUrl">';
    
 
 return $Content;
