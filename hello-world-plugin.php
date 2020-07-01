@@ -12,8 +12,9 @@
     $Content .= "}\r\n";
     $Content .= "</style>\r\n";
     $Content .= '<h3 class="testText">HELLO WOOORLD!</h3>'; 
-    $Content .= '<img src= \"https://www.dlf.pt/png/big/5/56420_jordan-cry-face-png.jpg" 
-       alt="jord-avatar" width="120" height="120" class="left-align" />';
+    $Content .= return '<img src=\"https://www.dlf.pt/png/big/5/56420_jordan-cry-face-png.jpg" 
+         alt="jord" width="96" height="96" class="left-align" />';
+   }
 
 return $Content;
 
