@@ -7,7 +7,7 @@
  */
  function jordan_cry_plugin ($atts) {
     $Content = "<style>\r\n";
-    $Content .= "h3.testText {r\n";
+    $Content .= "h3.testText {\r\n";
     $Content .= "color: #ff3f7e;\r\n";
     $Content .= "}\r\n";
     $Content .= "</style>\r\n";
